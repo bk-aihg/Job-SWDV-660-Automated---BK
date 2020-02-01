@@ -1,2 +1,2 @@
 Prints double sided stair case pattern.
-Testing Automated Trigger.
+Testing Automated Triggers.
